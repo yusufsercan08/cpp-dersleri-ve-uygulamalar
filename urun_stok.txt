@@ -1,0 +1,3 @@
+Laptop 15000 5
+Mouse 250 30
+ekle 100 2
