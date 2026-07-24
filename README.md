@@ -1,21 +1,22 @@
-# 🚀 C++ Ders Notları ve Uygulamaları
+# 🚀 C++ Course Notes & Practices
 
-Bu depo; üniversite derslerimde, bireysel çalışmalarımda ve pratik yaparken kaleme aldığım **C++ kod örneklerini ve algoritmalarını** içermektedir.
+This repository contains C++ code examples, algorithms, and practical exercises developed during my university coursework and personal study sessions.
 
-> ⚠️ **Not:** Bu depodaki kodlar herhangi bir profesyonellik veya ustalık iddiası taşımamaktadır. Temel amacım; C++ dilindeki gelişimimi kayıt altına almak, paslarımı atmak ve öğrendiğim konuları pekiştirmektir.
-
----
-
-## 📂 Klasör Yapısı
-
-* **01-Temeller:** Temel `cin`/`cout` kullanımı, değişkenler, koşullu ifadeler ve matematiksel hesaplamalar.
-* **02-Diziler-ve-Pointers:** Dizi manipülasyonları, kaydırma algoritmaları, işaretçi (pointer) alıştırmaları.
-* **03-Fonksiyonlar-ve-Templates:** Şablon (template) yapısı ve fonksiyon örnekleri.
-* **04-OOP-ve-Siniflar:** Nesne yönelimli programlama (OOP) ve sınıf mimarileri.
+> ⚠️ **Note:** The code in this repository represents my ongoing learning journey. The primary goal is to track my progress in C++, solidify core concepts, and build a strong engineering foundation.
 
 ---
 
-### 💻 Geliştirme Ortamı
+## 📁 Repository Structure
+
+* **01-Basics:** Fundamental `cin` / `cout` operations, variables, conditional statements, and basic mathematical calculations.
+* **02-Arrays-and-Pointers:** Array manipulation, shift algorithms, and pointer exercises.
+* **03-Functions-and-Templates:** Function structures, default arguments, overloading, and function templates.
+* **04-OOP-and-Classes:** Object-Oriented Programming (OOP) concepts, class design, and object architecture.
+
+---
+
+## 💻 Development Environment
+
 * **IDE:** Visual Studio Code
-* **Derleyici:** MinGW (g++)
-* **Versiyon Kontrol:** Git & GitHub
+* **Compiler:** MinGW (g++)
+* **Version Control:** Git & GitHub
