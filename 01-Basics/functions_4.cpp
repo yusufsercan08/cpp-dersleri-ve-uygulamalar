@@ -46,7 +46,7 @@ void selamla(string isim)
 }
 
 int bataryaYuzdesi(float voltaj) 
-{
+{ 
     // Formülü uygula ve tam sayıya çevirip döndür
     int yuzde = (voltaj / 12.6) * 100;
     return yuzde; // Sonucu geri gönderiyoruz
