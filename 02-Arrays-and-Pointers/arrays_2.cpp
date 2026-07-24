@@ -18,6 +18,10 @@ int main()
     cout << "\n--------------------------\n\n";
 
     // 2. YÖNTEM: Modern C++11 Range-based For Döngüsü (Reference & Const)
+    // auto  : 'cars' dizisinin türünü (string) derleyicinin otomatik tahmin etmesini sağlar.
+    // &     : Bellekte yeni kopyalama yapmaz (performans artar). Doğrudan orijinal veriye referans (etiket) bağlar.
+    // const : Referans ile bağlandığımız orijinal dizinin yanlışlıkla değiştirilmesini önler (read-only yapar).
+    
     cout << "--- Range-based For Dongusu ---\n";
     for (const auto &car : cars)
     {
