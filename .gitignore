@@ -21,3 +21,7 @@ bin/
 obj/
 .vscode/
 .github/
+main.c
+main.cpp
+filename.txt
+urun_stok.txt
